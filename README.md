@@ -7,10 +7,15 @@ This project focuses on analyzing personal financial data to create a comprehens
 # Objectives
 Build an interactive dashboard to track:
   -Monthly income and expenses.
+  
   -Savings progress against targets.
+  
   -Net worth trends over time.
+  
 Enhance financial literacy through data visualization.
+
 Empower users to analyze their own data (BYOD - Bring Your Own Data).
+
 Simplify financial analysis by reducing reliance on manual calculations.
 
 # Project Workflow
